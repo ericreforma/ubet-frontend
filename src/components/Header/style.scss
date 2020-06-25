@@ -1,0 +1,142 @@
+@import '../../assets/variables.scss';
+
+.header{
+    width: 100%;
+    border-bottom-left-radius: 31px;
+    border-bottom-right-radius: 31px;
+    background-color: $COLOR_BACKGROUND;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    @include shadowDefault;
+    position: relative;
+    z-index: 2;
+    .bannerText{
+        color:$COLOR_blue;
+        font-size: 16px;    
+        margin: 0;
+        text-align: center;
+    }
+    .accountSummary{
+        display: flex;
+        flex-direction: row;
+        align-content: space-between;
+        margin: 0 5%;
+        padding-bottom: 8px;
+        margin-top: 18px;
+        border-bottom: 1px dotted #cac8c8;
+        .username{
+            flex: 1;
+        }
+        .balance{
+            color: $COLOR_orange;
+            span{
+                color: $COLOR_pink;
+                span.amount{
+                    font-size: 19px;
+                    font-family: 'Lato', sans-serif;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+    .banner_slider{
+        padding: 5px;
+        width: 100%;
+        overflow: hidden;
+        .banner{
+            max-width: 100%;
+            height: 100%;
+            border-radius: 15px;
+            
+        }
+    }
+    .navMain{
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 14px;
+        padding-top: 15px;
+        ul.mainmenu{
+            list-style-type: none;
+            display: inline-block;
+            padding: 0;
+            margin: 0;
+            li{
+                float: left;
+                margin-right: 43px;
+                img{
+                    margin-right: 4px;
+                }
+                
+                * {
+                    display: inline-block;
+                    position: relative;
+                    vertical-align: middle;
+                }
+            }
+            li.nav_messages {
+                img{
+                    width: 28px;
+                }
+            }
+
+            li.nav_deposit {
+                img{
+                    width: 23px;
+                }
+            }
+            li.nav_withdrawal {
+                img{
+                    width: 28px;
+                }
+            }
+            li.nav_transfer {
+                margin-right: 0;
+                img{
+                    width: 27px;
+                }
+            }
+        }
+    }
+}
+.navSub{
+    width: 426px;
+    background-color: #fff;
+    display: block;
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+    margin-top: 25px;
+    height: 25px;
+    @include shadowDefault;
+    z-index: 2;
+    .activeButton{
+        position: absolute;
+        left: 4px;
+        width: 85px;
+        top: -7px;
+        z-index: 1;
+    }
+    .submenu{
+        position: relative;
+        z-index: 2;
+        margin: 0;
+        padding: 0 5px;
+        list-style-type: none;
+        width: 100%;
+        
+        li{
+            float: left;
+            margin: 2px 12px;
+        }
+        li.active{
+            width: 85px;
+            color: #fff;
+            text-align: center;
+            margin: 2px 0;
+        }
+    }
+}
+

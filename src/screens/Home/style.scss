@@ -1,0 +1,56 @@
+@import '../../assets/variables.scss';
+.home{
+    flex: 1;
+    overflow-y: scroll;
+    position: relative;
+    top: -10px;
+    bottom: 0;
+    z-index: 1;
+    padding-left: 11px;
+    padding-right: 7px;
+    padding-top: 33px;
+    padding-bottom: 66px;
+    &::-webkit-scrollbar-track
+    {
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+
+    &::-webkit-scrollbar
+    {
+        width: 5px;
+        background-color: #F5F5F5;
+    }
+
+    &::-webkit-scrollbar-thumb
+    {
+        border-radius: 10px;
+        background-color: $COLOR_blue;
+    }
+    .content{
+        .home_list{
+            width: 100%;
+            display: inline-block;
+            position: relative;
+            margin-bottom: 10px;
+        }
+        .logo_container{
+            position: absolute;
+            width: 107px;
+            height: 43px;
+            text-align: center;
+            img{
+                position: relative;
+                height: 20px;
+                vertical-align: middle;
+            }
+        }
+        img.background{
+            width: 100%;
+            
+        }
+        img.model{
+            position: absolute;
+        }
+    }
+}

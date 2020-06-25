@@ -1,0 +1,11 @@
+$COLOR_BACKGROUND: #f5f5f5;
+$COLOR_black: #4d525d;
+$COLOR_blue: #46aef7;
+$COLOR_orange: #fe934c;
+$COLOR_pink: #fc686f;
+
+@mixin  shadowDefault {
+    -webkit-box-shadow: 0 0px 21px -10px rgba(0, 0, 0, 0.36);
+    -moz-box-shadow: 0 0px 21px -10px rgba(0, 0, 0, 0.36);
+    box-shadow: 0 0px 21px -10px rgba(0, 0, 0, 0.36);
+}

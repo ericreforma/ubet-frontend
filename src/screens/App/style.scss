@@ -1,0 +1,17 @@
+#root{
+    background-color: #eee;
+    .app{
+        width: 450px;
+        height: 100vh;
+        display: block;
+        margin: auto;
+        overflow: hidden;
+        background: #f7f7f7;
+        position: relative;
+        .app_container{
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+    }
+}

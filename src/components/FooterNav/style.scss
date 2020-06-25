@@ -1,0 +1,40 @@
+@import '../../assets//variables.scss';
+
+.footerNav{
+    position: absolute;
+    bottom: 0;
+    background-color: #fff;
+    border-top-left-radius: 57px;
+    border-top-right-radius: 57px;
+    z-index: 9;
+    height: 65px;
+    width: 100%;
+    .footerNavMenu{
+        position: relative;
+        list-style-type: none;
+        display: inline-block;
+        margin: 0;
+        padding: 0 53px;
+        width: 100%;
+        margin-top: 13px;
+        li{
+            float: left;
+            text-align: center;
+            margin: 0 31px;
+            line-height: 1;
+            cursor: pointer;
+            img{
+                width: 23px;
+                display: block;
+            }
+            span{
+                font-size: 12px;
+            }
+        }
+        li.active{
+            span{
+                color: $COLOR_blue;
+            }
+        }
+    }
+}

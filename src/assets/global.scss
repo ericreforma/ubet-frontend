@@ -1,0 +1,22 @@
+@import './variables.scss';
+
+@font-face {
+    font-family: 'ms-jhenghei';
+    src: url('/fonts/msjh_0.ttf');
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: $COLOR_BACKGROUND;
+    *{
+        box-sizing: border-box;
+        
+    }
+    p, span, div, i{
+        color: $COLOR_black;
+        font-family: 'ms-jhenghei';
+    }
+}
