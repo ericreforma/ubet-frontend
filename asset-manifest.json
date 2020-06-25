@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ubet-frontend/static/css/main.95d2ba6a.chunk.css",
-    "main.js": "/ubet-frontend/static/js/main.51de7266.chunk.js",
-    "main.js.map": "/ubet-frontend/static/js/main.51de7266.chunk.js.map",
+    "main.css": "/ubet-frontend/static/css/main.9a0307ee.chunk.css",
+    "main.js": "/ubet-frontend/static/js/main.5744dd31.chunk.js",
+    "main.js.map": "/ubet-frontend/static/js/main.5744dd31.chunk.js.map",
     "runtime-main.js": "/ubet-frontend/static/js/runtime-main.80da2468.js",
     "runtime-main.js.map": "/ubet-frontend/static/js/runtime-main.80da2468.js.map",
     "static/js/2.52e8671a.chunk.js": "/ubet-frontend/static/js/2.52e8671a.chunk.js",
     "static/js/2.52e8671a.chunk.js.map": "/ubet-frontend/static/js/2.52e8671a.chunk.js.map",
     "index.html": "/ubet-frontend/index.html",
-    "precache-manifest.071260402a8e2ca5499f93fdc5c5dfab.js": "/ubet-frontend/precache-manifest.071260402a8e2ca5499f93fdc5c5dfab.js",
+    "precache-manifest.5daa91240a0b1fd6237f5370363e282e.js": "/ubet-frontend/precache-manifest.5daa91240a0b1fd6237f5370363e282e.js",
     "service-worker.js": "/ubet-frontend/service-worker.js",
-    "static/css/main.95d2ba6a.chunk.css.map": "/ubet-frontend/static/css/main.95d2ba6a.chunk.css.map",
+    "static/css/main.9a0307ee.chunk.css.map": "/ubet-frontend/static/css/main.9a0307ee.chunk.css.map",
     "static/js/2.52e8671a.chunk.js.LICENSE.txt": "/ubet-frontend/static/js/2.52e8671a.chunk.js.LICENSE.txt",
     "static/media/banner.png": "/ubet-frontend/static/media/banner.2a78e9d4.png",
     "static/media/customer-service.svg": "/ubet-frontend/static/media/customer-service.95388070.svg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.80da2468.js",
     "static/js/2.52e8671a.chunk.js",
-    "static/css/main.95d2ba6a.chunk.css",
-    "static/js/main.51de7266.chunk.js"
+    "static/css/main.9a0307ee.chunk.css",
+    "static/js/main.5744dd31.chunk.js"
   ]
 }

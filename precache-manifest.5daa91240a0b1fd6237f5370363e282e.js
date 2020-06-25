@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f562280e4fee7f7ec90d3cbbac9b4dd3",
+    "revision": "5d551f28551f4acf81830ebeaef4bfc7",
     "url": "/ubet-frontend/index.html"
   },
   {
-    "revision": "c68913acb7794e644482",
-    "url": "/ubet-frontend/static/css/main.95d2ba6a.chunk.css"
+    "revision": "9eb4cda4a1bf3aa31be3",
+    "url": "/ubet-frontend/static/css/main.9a0307ee.chunk.css"
   },
   {
     "revision": "22c369795d79fa9107c2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ubet-frontend/static/js/2.52e8671a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c68913acb7794e644482",
-    "url": "/ubet-frontend/static/js/main.51de7266.chunk.js"
+    "revision": "9eb4cda4a1bf3aa31be3",
+    "url": "/ubet-frontend/static/js/main.5744dd31.chunk.js"
   },
   {
     "revision": "2bbcdc5d41b4b8214592",

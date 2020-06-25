@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ubet-frontend/precache-manifest.071260402a8e2ca5499f93fdc5c5dfab.js"
+  "/ubet-frontend/precache-manifest.5daa91240a0b1fd6237f5370363e282e.js"
 );
 
 self.addEventListener('message', (event) => {
