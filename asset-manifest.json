@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ubet-frontend/static/css/main.95d2ba6a.chunk.css",
+    "main.js": "/ubet-frontend/static/js/main.51de7266.chunk.js",
+    "main.js.map": "/ubet-frontend/static/js/main.51de7266.chunk.js.map",
+    "runtime-main.js": "/ubet-frontend/static/js/runtime-main.80da2468.js",
+    "runtime-main.js.map": "/ubet-frontend/static/js/runtime-main.80da2468.js.map",
+    "static/js/2.52e8671a.chunk.js": "/ubet-frontend/static/js/2.52e8671a.chunk.js",
+    "static/js/2.52e8671a.chunk.js.map": "/ubet-frontend/static/js/2.52e8671a.chunk.js.map",
+    "index.html": "/ubet-frontend/index.html",
+    "precache-manifest.071260402a8e2ca5499f93fdc5c5dfab.js": "/ubet-frontend/precache-manifest.071260402a8e2ca5499f93fdc5c5dfab.js",
+    "service-worker.js": "/ubet-frontend/service-worker.js",
+    "static/css/main.95d2ba6a.chunk.css.map": "/ubet-frontend/static/css/main.95d2ba6a.chunk.css.map",
+    "static/js/2.52e8671a.chunk.js.LICENSE.txt": "/ubet-frontend/static/js/2.52e8671a.chunk.js.LICENSE.txt",
+    "static/media/banner.png": "/ubet-frontend/static/media/banner.2a78e9d4.png",
+    "static/media/customer-service.svg": "/ubet-frontend/static/media/customer-service.95388070.svg",
+    "static/media/customer-service_on.svg": "/ubet-frontend/static/media/customer-service_on.f74756f0.svg",
+    "static/media/deposit.svg": "/ubet-frontend/static/media/deposit.e7d70bb4.svg",
+    "static/media/home.svg": "/ubet-frontend/static/media/home.a2d803f6.svg",
+    "static/media/home_bg.png": "/ubet-frontend/static/media/home_bg.49713e17.png",
+    "static/media/home_on.svg": "/ubet-frontend/static/media/home_on.7540d4e8.svg",
+    "static/media/messages.svg": "/ubet-frontend/static/media/messages.6a1d45bd.svg",
+    "static/media/nav-btn.svg": "/ubet-frontend/static/media/nav-btn.a8360631.svg",
+    "static/media/profile.svg": "/ubet-frontend/static/media/profile.9d5dbe97.svg",
+    "static/media/profile_on.svg": "/ubet-frontend/static/media/profile_on.6a2ba651.svg",
+    "static/media/promotion.svg": "/ubet-frontend/static/media/promotion.53ded5d0.svg",
+    "static/media/promotion_on.svg": "/ubet-frontend/static/media/promotion_on.90f19d95.svg",
+    "static/media/transfer.svg": "/ubet-frontend/static/media/transfer.ca7ae086.svg",
+    "static/media/withdrawal.svg": "/ubet-frontend/static/media/withdrawal.8ebf8563.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80da2468.js",
+    "static/js/2.52e8671a.chunk.js",
+    "static/css/main.95d2ba6a.chunk.css",
+    "static/js/main.51de7266.chunk.js"
+  ]
+}
